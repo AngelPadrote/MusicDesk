@@ -20,7 +20,7 @@ The project was created as a personal learning project to practice desktop appli
 
 ## Screenshot
 
-![MusicDesk](assets/musicdesk.png)
+![MusicDesk](assets/MusicDeskScreenshot.png)
 
 ## Technologies
 
